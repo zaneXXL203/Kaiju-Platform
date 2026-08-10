@@ -1,0 +1,12 @@
+node_modules/
+data/*.sqlite
+data/*.sqlite-*
+uploads/*
+!uploads/.gitkeep
+thumbnails/*
+!thumbnails/.gitkeep
+.env
+playwright-report/
+test-results/
+
+__pycache__/
